@@ -1,0 +1,54 @@
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\bin\Debug\ParkingSensors.exe.config
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\obj\Debug\ParkingSensors.csprojResolveAssemblyReference.cache
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\obj\Debug\ParkingSensors.Connection.resources
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\obj\Debug\ParkingSensors.Properties.Resources.resources
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\obj\Debug\ParkingSensors.Status.resources
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\obj\Debug\ParkingSensors.csproj.GenerateResource.Cache
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\bin\Debug\ParkingSensors.exe
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\bin\Debug\ParkingSensors.pdb
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\obj\Debug\ParkingSensors.exe
+c:\users\stahi\onedrive\documente\visual studio 2015\Projects\ParkingSensors\ParkingSensors\obj\Debug\ParkingSensors.pdb
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\bin\Debug\ParkingSensors.exe.config
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.exe
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.pdb
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.csprojResolveAssemblyReference.cache
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.Connection.resources
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.Status.resources
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.csproj.GenerateResource.Cache
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\bin\Debug\ParkingSensors.exe
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\bin\Debug\ParkingSensors.pdb
+C:\Users\TekAdvice\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.Properties.Resources.resources
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\bin\Debug\ParkingSensors.exe.config
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.exe
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.pdb
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\bin\Debug\ParkingSensors.exe
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\bin\Debug\ParkingSensors.pdb
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.csprojResolveAssemblyReference.cache
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.Connection.resources
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.Properties.Resources.resources
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.Status.resources
+C:\Users\stahi\Desktop\ParkingSensor\ParkingSensors\obj\Debug\ParkingSensors.csproj.GenerateResource.Cache
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\bin\Debug\ParkingSensors.exe.config
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.exe
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.pdb
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\bin\Debug\ParkingSensors.exe
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\bin\Debug\ParkingSensors.pdb
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.csprojResolveAssemblyReference.cache
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.Connection.resources
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.Properties.Resources.resources
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.Status.resources
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.csproj.GenerateResource.Cache
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\bin\Debug\Resources\auto.png
+C:\Users\TekAdvice\Desktop\ParkingSensorwithDesign\ParkingSensors\bin\Debug\Resources\Automated-Parking.ico
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\bin\Debug\ParkingSensors.exe.config
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.exe
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.pdb
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\bin\Debug\Resources\auto.png
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\bin\Debug\Resources\Automated-Parking.ico
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\bin\Debug\ParkingSensors.exe
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\bin\Debug\ParkingSensors.pdb
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.csprojResolveAssemblyReference.cache
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.Connection.resources
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.Properties.Resources.resources
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.Status.resources
+C:\Users\TekAdvice\Desktop\AN_III_ACS\SEM_II\SMP\ParkingSensorwithDesign\ParkingSensors\obj\Debug\ParkingSensors.csproj.GenerateResource.Cache
